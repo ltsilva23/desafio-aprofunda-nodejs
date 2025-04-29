@@ -71,7 +71,7 @@ function fizzBuzz() {
 fizzBuzz();
 
 /*
-6 - Contador de Vogais
+5 - Contador de Vogais
 Descrição: Crie uma função que receba uma string e retorne a quantidade de vogais nela.
 Entrada: contaVogais("Node.js é incrível") Saída: 7
 */
@@ -90,7 +90,7 @@ function contaVogais(string) {
 console.log(contaVogais("Node.js é incrível"));
 
 /*
-7 - Tabuada de um Número
+6 - Tabuada de um Número
 Descrição: Crie uma função que receba um número e imprima a sua tabuada de 1 a 10. Entrada: tabuada(5) Saída:
 5 x 1 = 5
 5 x 2 = 10
